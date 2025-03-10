@@ -1,0 +1,9 @@
+numpy
+pandas
+tqdm
+pickle-mixin
+matplotlib
+seaborn
+scipy
+scikit-learn
+#google-colab
