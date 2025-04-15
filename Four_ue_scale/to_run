@@ -1,0 +1,5 @@
+docker compose exec python_xapp_runner ./kpm_mon_xapp.py --metrics=DRB.UEThpDl,DRB.UEThpUl --kpm_report_style=5
+
+sudo gnuradio-companion ./multi_ue_scenario.grc
+
+sudo gnb -c gnb_zmq.yaml e2 --addr="10.0.2.10" --bind_addr="10.0.2.1"
