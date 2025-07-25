@@ -187,7 +187,7 @@ python3 dashboard/visualize_metrics.py
 ## 👥 Authors
 
 * Sanjeev A.
-*Krithika Ravishanker
+* Krithika Ravishanker
 
 ---
 
